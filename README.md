@@ -1,5 +1,2 @@
-# Git Fetch, Pull, Merge and Rebase
+Second remote change for fetch vs pull.
 
-Git Fetch, Pull, Merge and Rebase Assignment
-
-Name: Yugappriya
